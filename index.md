@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Master GithubPage
 
 You can use the [editor on GitHub](https://github.com/glorioustuna43/attempt2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
